@@ -1,0 +1,5 @@
+{
+    "client_id": "replace-with-client-id-key",
+    "client_secret": "replace-with-client_secret-secret",
+    "endpoints_url": "https://graph-na02-useast1.api.smartthings.com/api/smartapps/endpoints"
+}
